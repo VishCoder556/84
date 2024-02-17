@@ -53,6 +53,8 @@ function alphabetkey()
 }
 function numberkey()
 {
+	img_image="numkey.png";
+	add();
 	
 }
 function arrowkey()
